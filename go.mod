@@ -1,4 +1,4 @@
-module gin-exp-middleware
+module github.com/medlcago/gin-exp-middleware
 
 go 1.22
 
