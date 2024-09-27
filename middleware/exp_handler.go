@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"gin-exp-middleware/exp"
 	"github.com/gin-gonic/gin"
+	"github.com/medlcago/gin-exp-middleware/exp"
 	"net/http"
 )
 

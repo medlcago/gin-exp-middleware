@@ -1,9 +1,9 @@
 package main
 
 import (
-	"gin-exp-middleware/exp"
-	"gin-exp-middleware/middleware"
 	"github.com/gin-gonic/gin"
+	"github.com/medlcago/gin-exp-middleware/exp"
+	"github.com/medlcago/gin-exp-middleware/middleware"
 	"log"
 	"net/http"
 )
